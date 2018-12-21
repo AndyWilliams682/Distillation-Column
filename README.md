@@ -1,2 +1,1 @@
 # DistillationColumn
-A distillation column design script that solved for the number of equilibrium stages required to achieve the distillation. This was written to optimize the cost of installing and operating a distillation column that separated water and ethanol. Further work is being considered to fully automate the process of: Setting up and solving the initial stages of the problem (material balance, thermal states); and Implementing cost functions and minimizing the resultant cost.
